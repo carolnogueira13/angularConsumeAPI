@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "product_name": "Study Chair",
+      "product_description": "An excellent ergonomic chair\n",
+      "id": 2
+    },
+    {
+      "product_name": "Notebook",
+      "product_description": "High-quality notebook with removable pages",
+      "id": 3
+    },
+    {
+      "product_name": "LED Desk Lamp",
+      "product_description": "Modern lamp with adjustable LED light",
+      "id": 4
+    },
+    {
+      "product_name": "Backpack",
+      "product_description": "Durable and spacious backpack",
+      "id": 5
+    }
+  ]
+}
